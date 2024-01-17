@@ -1,4 +1,3 @@
-# main.rb
 require_relative 'quote_generator'
 
 class Main
@@ -28,5 +27,4 @@ class Main
   end
 end
 
-# Run the application
 Main.new.start

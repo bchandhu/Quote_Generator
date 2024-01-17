@@ -1,5 +1,3 @@
-# quote.rb
-
 class Quote
   attr_reader :text, :author
 
