@@ -1,7 +1,7 @@
 
 # Random Quote Generator
 
-Welcome to the Random Quote Generator! This command-line interface (CLI) application allows you to generate random quotes to inspire and motivate you. The application is built in Ruby and consists of two classes: `quote` and `quote_generator`.
+Welcome to the Random Quote Generator! This command-line interface (CLI) application allows you to generate random quotes to inspire and motivate you. This application is built in Ruby and consists of two classes: `quote` and `quote_generator`.
 
 ## Installation
 
