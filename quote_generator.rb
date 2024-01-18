@@ -21,5 +21,6 @@ class QuoteGenerator
   def generate_random_quote
     random_quote = quotes.sample
     puts "Random Quote:\n#{random_quote}"
+    random_quote
   end
 end
